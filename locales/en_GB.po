@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Preventive Maintenance plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-14 10:00+0000\n"
+"PO-Revision-Date: 2024-01-14 10:00+0000\n"
+"Last-Translator: Your Name <your.email@domain.com>\n"
+"Language-Team: English\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Preventive Maintenance"
+msgstr "Preventive Maintenance"
+
+msgid "Site Name"
+msgstr "Site Name"
+
+msgid "Visit Date"
+msgstr "Visit Date"
+
+msgid "Branch Manager"
+msgstr "Branch Manager"
+
+msgid "Engineer"
+msgstr "Engineer"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "Device Checks"
+msgstr "Device Checks"
+
+msgid "Device Name"
+msgstr "Device Name"
+
+msgid "Device Number"
+msgstr "Device Number"
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Performance"
+msgstr "Performance"
+
+msgid "Temperature"
+msgstr "Temperature"
+
+msgid "Clean"
+msgstr "Clean"
+
+msgid "Kasper"
+msgstr "Kasper"
+
+msgid "Activation"
+msgstr "Activation"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Generate Excel Report"
+msgstr "Generate Excel Report"
+
+msgid "Next Maintenance Date"
+msgstr "Next Maintenance Date"
+
+msgid "View preventive maintenance"
+msgstr "View preventive maintenance"
+
+msgid "Create/Update preventive maintenance"
+msgstr "Create/Update preventive maintenance"
+
+msgid "Delete preventive maintenance"
+msgstr "Delete preventive maintenance"
+
+msgid "Preventive Maintenance Report - %s - %s"
+msgstr "Preventive Maintenance Report - %s - %s"
